@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e4ed4b3ff09bf1cc70ddfa5
+type: experiment
+name: my name
+flag: default.myName
+availableValues:
+  - Summer
+  - Ryan
+  - Michelle
+value: []
