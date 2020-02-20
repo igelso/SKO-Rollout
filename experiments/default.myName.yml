@@ -11,5 +11,5 @@ conditions:
   - group:
       operator: and
       name: iphone users
-    value: []
-value: []
+    value: Summer
+value: Ryan
